@@ -93,11 +93,28 @@ IBM HR Analytics & Employee Attrition/
 
 ### Phase 5 — Visualizations
 6 professional charts covering:
+
 - Attrition by department and job role
+  ![Attrition by Department](IBM%20HR%20Analytics%20%26%20Employee%20Attrition/Outputs/outputs/attrition_by_dept.png)
+  ![Attrition by Role](IBM%20HR%20Analytics%20%26%20Employee%20Attrition/Outputs/outputs/attrition_by_role.png)
+
 - Salary distribution by attrition outcome
+  ![Salary Distribution](IBM%20HR%20Analytics%20%26%20Employee%20Attrition/Outputs/outputs/salary_distribution.png)
+  
 - Full correlation heatmap
+ ![Correlation Heatmap](IBM%20HR%20Analytics%20%26%20Employee%20Attrition/Outputs/outputs/correlation_heatmap.png)
+
 - Satisfaction scores comparison
+  ![Satisfaction Scores](IBM%20HR%20Analytics%20%26%20Employee%20Attrition/Outputs/outputs/satisfaction_boxplot.png)
+
 - Overtime vs attrition impact
+ [Overtime vs Attrition](IBM%20HR%20Analytics%20%26%20Employee%20Attrition/Outputs/outputs/overtime_attrition.png)
+
+![Residuals](IBM%20HR%20Analytics%20%26%20Employee%20Attrition/Outputs/outputs/residuals.png)
+
+![Feature Importance](IBM%20HR%20Analytics%20%26%20Employee%20Attrition/Outputs/outputs/feature_importance.png)
+
+![Confusion Matrix](IBM%20HR%20Analytics%20%26%20Employee%20Attrition/Outputs/outputs/confusion_matrix.png)
 
 ### Phase 6 — ML Prediction
 - **Model:** Random Forest Classifier (200 trees, balanced class weights)
